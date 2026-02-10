@@ -1,0 +1,3 @@
+# Copy this to `configs/teacher_checkpoints.yaml` and replace with real checkpoints.
+exist21: your-org/exist21-bert-sexism-teacher
+cmsb: your-org/cmsb-bert-sexism-teacher
